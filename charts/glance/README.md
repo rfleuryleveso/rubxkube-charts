@@ -22,7 +22,7 @@ Kubernetes: `>= 1.18`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://rubxkube.github.io/common-charts | common | v0.4.0 |
+| https://rubxkube.github.io/common-charts | common | v0.4.3 |
 
 ## Values
 
